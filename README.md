@@ -15,4 +15,6 @@ In modern LLM, tokens later in the context are easier to predict than tokens ear
 
 A Roadmap to Reproduce o1 from Reinforcement Learning Perspective: https://arxiv.org/pdf/2412.14135
 
+Meta Chain of Thought https://arxiv.org/abs/2501.04682
+
 
