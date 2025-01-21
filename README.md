@@ -13,7 +13,7 @@ Theory
 ======
 In modern LLM, tokens later in the context are easier to predict than tokens earlier in the context. This can be used as direct measurement of In Context Learning (which includes, but is not limited to, Few Shot Learning). ICL is enabled by induction heads (althought they can also enable wholesale repeating) https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
 
-A Roadmap to Reproduce o1 from Reinforcement Learning Perspective: https://arxiv.org/pdf/2412.14135
+Reinforcement Learning for LLM: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective: https://arxiv.org/pdf/2412.14135 ; DeepSeek R1: https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
 
 Meta Chain of Thought https://arxiv.org/abs/2501.04682
 
