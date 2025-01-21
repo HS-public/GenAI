@@ -9,6 +9,9 @@ Evaluators can be turned into reward function in Reflexion: https://arxiv.org/pd
 
 LinkedIn SQL Agent with knowledge graph: https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics
 
+RAG Best Practices: Contrastive In-context Learning RAG, Focus Mode RAG, and Query Expansion RAG achieved the best results: https://arxiv.org/pdf/2501.07391
+
+
 Theory
 ======
 In modern LLM, tokens later in the context are easier to predict than tokens earlier in the context. This can be used as direct measurement of In Context Learning (which includes, but is not limited to, Few Shot Learning). ICL is enabled by induction heads (althought they can also enable wholesale repeating) https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
