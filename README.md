@@ -7,7 +7,7 @@ In use data should be analyzed to determine the architecture of prompt workflow:
 
 Evaluators can be turned into reward function in Reflexion: https://arxiv.org/pdf/2404.06474
 
-LinkedIn SQL Agent with knowledge graph: https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics
+LinkedIn SQL Agent with knowledge graph: https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics . Chat to DB https://github.com/garyzava/chat-to-database-chatbot
 
 RAG Best Practices: Contrastive In-context Learning RAG, Focus Mode RAG, and Query Expansion RAG achieved the best results: https://arxiv.org/pdf/2501.07391
 
