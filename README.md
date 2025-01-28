@@ -13,6 +13,7 @@ RAG Best Practices: Contrastive In-context Learning RAG, Focus Mode RAG, and Que
 
 Chip Huyen on Agents: https://huyenchip.com/2025/01/07/agents.html
 
+Prompt Injection Defenses: https://github.com/tldrsec/prompt-injection-defenses
 
 
 Theory
