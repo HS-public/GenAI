@@ -17,6 +17,8 @@ Prompt Injection Defenses: https://github.com/tldrsec/prompt-injection-defenses
 
 Simple Test Time Scaling (appending "Wait" and SFT) - https://arxiv.org/pdf/2501.19393
 
+Use Gemini 2.0 for PDF -> Markdown parsing https://www.sergey.fyi/articles/gemini-flash-2
+
 Theory
 ======
 In modern LLM, tokens later in the context are easier to predict than tokens earlier in the context. This can be used as direct measurement of In Context Learning (which includes, but is not limited to, Few Shot Learning). ICL is enabled by induction heads (althought they can also enable wholesale repeating) https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
