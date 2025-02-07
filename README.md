@@ -15,6 +15,7 @@ Chip Huyen on Agents: https://huyenchip.com/2025/01/07/agents.html
 
 Prompt Injection Defenses: https://github.com/tldrsec/prompt-injection-defenses
 
+Simple Test Time Scaling (appending "Wait" and SFT) - https://arxiv.org/pdf/2501.19393
 
 Theory
 ======
