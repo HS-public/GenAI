@@ -27,4 +27,4 @@ Reinforcement Learning for LLM: A Roadmap to Reproduce o1 from Reinforcement Lea
 
 Meta Chain of Thought https://arxiv.org/abs/2501.04682
 
-
+SFT Memorizes, RL Generalizes: https://arxiv.org/pdf/2501.17161v1
