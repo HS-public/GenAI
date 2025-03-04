@@ -5,6 +5,10 @@ Practical Optimizations
 
 In use data should be analyzed to determine the architecture of prompt workflow: https://blog.promptlayer.com/prompt-routers-and-modular-prompt-architecture-8691d7a57aee/
 
+Prompt Improver: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-improver
+
+Reflexion: https://www.promptingguide.ai/techniques/reflexion
+
 Evaluators can be turned into reward function in Reflexion: https://arxiv.org/pdf/2404.06474
 
 LinkedIn SQL Agent with knowledge graph: https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics . Chat to DB https://github.com/garyzava/chat-to-database-chatbot. Uber: https://www.uber.com/blog/query-gpt/
