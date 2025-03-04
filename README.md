@@ -19,7 +19,7 @@ Simple Test Time Scaling (appending "Wait" and SFT) - https://arxiv.org/pdf/2501
 
 Use Gemini 2.0 for PDF -> Markdown parsing https://www.sergey.fyi/articles/gemini-flash-2
 
-Few Shot Prompting is bad. Partial or dynamic few shot instead: https://gloochat.notion.site/BAML-Advanced-Prompting-Workshop-Dec-2024-161bb2d26216807b892fed7d9d978a37#161bb2d2621680faae18cdb43f22d9b3
+Few Shot Prompting is bad (Debateable). Partial or dynamic few shot instead: https://gloochat.notion.site/BAML-Advanced-Prompting-Workshop-Dec-2024-161bb2d26216807b892fed7d9d978a37#161bb2d2621680faae18cdb43f22d9b3
 
 Theory
 ======
