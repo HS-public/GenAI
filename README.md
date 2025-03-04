@@ -19,6 +19,8 @@ Simple Test Time Scaling (appending "Wait" and SFT) - https://arxiv.org/pdf/2501
 
 Use Gemini 2.0 for PDF -> Markdown parsing https://www.sergey.fyi/articles/gemini-flash-2
 
+Few Shot Prompting is bad. Partial or dynamic few shot instead: https://gloochat.notion.site/BAML-Advanced-Prompting-Workshop-Dec-2024-161bb2d26216807b892fed7d9d978a37#161bb2d2621680faae18cdb43f22d9b3
+
 Theory
 ======
 In modern LLM, tokens later in the context are easier to predict than tokens earlier in the context. This can be used as direct measurement of In Context Learning (which includes, but is not limited to, Few Shot Learning). ICL is enabled by induction heads (althought they can also enable wholesale repeating) https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
