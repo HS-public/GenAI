@@ -34,3 +34,14 @@ Reinforcement Learning for LLM: A Roadmap to Reproduce o1 from Reinforcement Lea
 Meta Chain of Thought https://arxiv.org/abs/2501.04682
 
 SFT Memorizes, RL Generalizes: https://arxiv.org/pdf/2501.17161v1
+
+Test Time Scaling
+=================
+LLMs exhibit an internal chain of thought: https://arxiv.org/abs/2505.14530
+
+COT as solution to impossibility of bounded depth Transformers solving math problems: https://proceedings.neurips.cc/paper_files/paper/2023/hash/dfc310e81992d2e4cedc09ac47eff13e-Abstract-Conference.html
+
+Faithful COT for interpretability: https://par.nsf.gov/biblio/10463284
+
+Soft COT: https://arxiv.org/abs/2502.12134
+
