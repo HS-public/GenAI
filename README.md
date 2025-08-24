@@ -37,6 +37,8 @@ SFT Memorizes, RL Generalizes: https://arxiv.org/pdf/2501.17161v1
 
 Test Time Scaling
 =================
+Long COT survey: https://arxiv.org/pdf/2503.09567
+
 LLMs exhibit an internal chain of thought: https://arxiv.org/abs/2505.14530
 
 COT as solution to impossibility of bounded depth Transformers solving math problems: https://proceedings.neurips.cc/paper_files/paper/2023/hash/dfc310e81992d2e4cedc09ac47eff13e-Abstract-Conference.html
@@ -44,4 +46,6 @@ COT as solution to impossibility of bounded depth Transformers solving math prob
 Faithful COT for interpretability: https://par.nsf.gov/biblio/10463284
 
 Soft COT: https://arxiv.org/abs/2502.12134
+
+Chain of X: https://arxiv.org/abs/2404.15676
 
