@@ -49,3 +49,12 @@ Soft COT: https://arxiv.org/abs/2502.12134
 
 Chain of X: https://arxiv.org/abs/2404.15676
 
+Reasoning for translation: https://arxiv.org/abs/2502.11544
+
+LRM as Judge: https://arxiv.org/abs/2504.00050
+
+Electronic Circuit Model to understand ICL and COT: https://arxiv.org/abs/2502.03325
+
+Anthropic - deceptive reasoning: https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf
+
+Dynamic Depth Scaling Transformer: https://arxiv.org/abs/2502.13842
