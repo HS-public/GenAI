@@ -58,3 +58,5 @@ Electronic Circuit Model to understand ICL and COT: https://arxiv.org/abs/2502.0
 Anthropic - deceptive reasoning: https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf
 
 Dynamic Depth Scaling Transformer: https://arxiv.org/abs/2502.13842
+
+Mechanistic Understanding COT: https://arxiv.org/abs/2402.18312
