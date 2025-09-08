@@ -60,3 +60,5 @@ Anthropic - deceptive reasoning: https://assets.anthropic.com/m/71876fabef0f0ed4
 Dynamic Depth Scaling Transformer: https://arxiv.org/abs/2502.13842
 
 Mechanistic Understanding COT: https://arxiv.org/abs/2402.18312
+
+Implicit Reasoning https://arxiv.org/abs/2509.02350
