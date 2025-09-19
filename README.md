@@ -35,6 +35,8 @@ Meta Chain of Thought https://arxiv.org/abs/2501.04682
 
 SFT Memorizes, RL Generalizes: https://arxiv.org/pdf/2501.17161v1
 
+RL Criticisms: https://arxiv.org/abs/2505.13697 and https://www.tobyord.com/writing/inefficiency-of-reinforcement-learning
+
 Test Time Scaling
 =================
 Long COT survey: https://arxiv.org/pdf/2503.09567
