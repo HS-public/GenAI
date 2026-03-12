@@ -64,3 +64,12 @@ Dynamic Depth Scaling Transformer: https://arxiv.org/abs/2502.13842
 Mechanistic Understanding COT: https://arxiv.org/abs/2402.18312
 
 Implicit Reasoning https://arxiv.org/abs/2509.02350
+
+Compute Efficiency
+==================
+Bitnet: https://github.com/microsoft/BitNet
+
+AI Agent Ecosystems
+===================
+Controllability Trap: https://arxiv.org/abs/2603.03515
+
