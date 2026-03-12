@@ -7,15 +7,9 @@ In use data should be analyzed to determine the architecture of prompt workflow:
 
 Prompt Improver: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-improver
 
-Reflexion: https://www.promptingguide.ai/techniques/reflexion
-
-Evaluators can be turned into reward function in Reflexion: https://arxiv.org/pdf/2404.06474
-
 LinkedIn SQL Agent with knowledge graph: https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics . Chat to DB https://github.com/garyzava/chat-to-database-chatbot. Uber: https://www.uber.com/blog/query-gpt/
 
 RAG Best Practices: Contrastive In-context Learning RAG, Focus Mode RAG, and Query Expansion RAG achieved the best results: https://arxiv.org/pdf/2501.07391
-
-Chip Huyen on Agents: https://huyenchip.com/2025/01/07/agents.html
 
 Prompt Injection Defenses: https://github.com/tldrsec/prompt-injection-defenses
 
@@ -25,7 +19,17 @@ Use Gemini 2.0 for PDF -> Markdown parsing https://www.sergey.fyi/articles/gemin
 
 Few Shot Prompting is bad (Debateable). Partial or dynamic few shot instead: https://gloochat.notion.site/BAML-Advanced-Prompting-Workshop-Dec-2024-161bb2d26216807b892fed7d9d978a37#161bb2d2621680faae18cdb43f22d9b3
 
+General Purpose Agents
+=======================
 Automatic Context Management: https://github.com/viplismism/rlm-cli
+
+Auto-harness: https://arxiv.org/abs/2603.03329
+
+Chip Huyen on Agents: https://huyenchip.com/2025/01/07/agents.html
+
+Reflexion: https://www.promptingguide.ai/techniques/reflexion
+
+Evaluators can be turned into reward function in Reflexion: https://arxiv.org/pdf/2404.06474
 
 Theory
 ======
