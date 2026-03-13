@@ -78,6 +78,7 @@ Bitnet: https://github.com/microsoft/BitNet
 Agent Swarms and Ecosystems
 ============================
 Controllability Trap: https://arxiv.org/abs/2603.03515
+
 Auto-research: https://github.com/karpathy/autoresearch
 
 
