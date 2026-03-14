@@ -75,6 +75,8 @@ Compute Efficiency
 ==================
 Bitnet: https://github.com/microsoft/BitNet
 
+Hardware Challenges: https://arxiv.org/pdf/2601.05047v1
+
 Agent Swarms and Ecosystems
 ============================
 Controllability Trap: https://arxiv.org/abs/2603.03515
