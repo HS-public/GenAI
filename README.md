@@ -71,6 +71,10 @@ Mechanistic Understanding COT: https://arxiv.org/abs/2402.18312
 
 Implicit Reasoning https://arxiv.org/abs/2509.02350
 
+Synth Data and RL Envs
+======================
+https://unsloth.ai/blog/rl-environments
+
 Compute Efficiency
 ==================
 Bitnet: https://github.com/microsoft/BitNet
