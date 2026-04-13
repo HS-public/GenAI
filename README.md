@@ -3,7 +3,7 @@
 Practical Optimizations
 ========================
 
-In use data should be analyzed to determine the architecture of prompt workflow: https://blog.promptlayer.com/prompt-routers-and-modular-prompt-architecture-8691d7a57aee/
+Production data should be analyzed to determine the architecture of prompt workflow: https://blog.promptlayer.com/prompt-routers-and-modular-prompt-architecture-8691d7a57aee/
 
 Prompt Improver: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-improver
 
@@ -12,8 +12,6 @@ LinkedIn SQL Agent with knowledge graph: https://www.linkedin.com/blog/engineeri
 RAG Best Practices: Contrastive In-context Learning RAG, Focus Mode RAG, and Query Expansion RAG achieved the best results: https://arxiv.org/pdf/2501.07391
 
 Prompt Injection Defenses: https://github.com/tldrsec/prompt-injection-defenses
-
-Simple Test Time Scaling (appending "Wait" and SFT) - https://arxiv.org/pdf/2501.19393
 
 Use Gemini 2.0 for PDF -> Markdown parsing https://www.sergey.fyi/articles/gemini-flash-2
 
@@ -45,6 +43,8 @@ RL Criticisms: https://arxiv.org/abs/2505.13697 and https://www.tobyord.com/writ
 
 Test Time Scaling
 =================
+Simple Test Time Scaling (appending "Wait" and SFT) - https://arxiv.org/pdf/2501.19393
+
 Long COT survey: https://arxiv.org/pdf/2503.09567
 
 LLMs exhibit an internal chain of thought: https://arxiv.org/abs/2505.14530
@@ -78,6 +78,8 @@ https://unsloth.ai/blog/rl-environments
 Compute Efficiency
 ==================
 Bitnet: https://github.com/microsoft/BitNet
+
+Turbo QUant: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
 
 Hardware Challenges: https://arxiv.org/pdf/2601.05047v1
 
