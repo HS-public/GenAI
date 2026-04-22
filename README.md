@@ -83,6 +83,8 @@ Turbo QUant: https://research.google/blog/turboquant-redefining-ai-efficiency-wi
 
 Hardware Challenges: https://arxiv.org/pdf/2601.05047v1
 
+Learning to forget: https://arxiv.org/abs/2604.18002
+
 Agent Swarms and Ecosystems
 ============================
 Controllability Trap: https://arxiv.org/abs/2603.03515
