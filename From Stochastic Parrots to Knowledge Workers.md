@@ -18,6 +18,6 @@ Pre-training and RLHF Done
 |-----------------|---------| --------|
 | Talk to your documents |Frozen Knowledge, Limited Context Window | RAG|
 | Data Extraction | Ambiguity in instructions, Fine Grained Control over output | Few Shot Prompting, ICL paper  |
-| Search over diverse knowledge sources | Multi hop tasks - Theoretical Limit on Bounded Depth Transformer (paper) | Prompt Chaining & Workflows, Million Step, Test Time Scaling|
+| Search over diverse knowledge sources | Multi hop tasks - Theoretical Limit on Bounded Depth Transformer (paper) | Prompt Chaining & Workflows, Million Step, Test Time Scaling (Simple Test-Time Scaling and the Efficiency of Thought, Self-Consistency Improves Chain of Thought Reasoning)|
 |Customer Service |Prompt Injection, Take Action | Instruction Heirarchy, Agents, React, Structured Generation |
 
